@@ -1,0 +1,34 @@
+{
+  "name": "@rray/googleapis",
+  "version": "1.0.0",
+  "description": "A drop-in slim replacement to googleapis subset",
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "type": "module",
+  "main": "index.mjs",
+  "files": [
+    "api.mjs",
+    "sheets.mjs",
+    "index.mjs"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rray-org/googleapis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rray-org/googleapis/issues"
+  },
+  "homepage": "https://github.com/rray-org/googleapis#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Nikita Skovoroda",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "qs": "^6.11.0"
+  }
+}
