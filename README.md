@@ -1,6 +1,8 @@
 # `@rray/googleapis`
 
-A drop-in slim replacement to googleapis subset.
+[![npm](https://img.shields.io/npm/v/@rray/googleapis)](https://www.npmjs.com/package/@rray/googleapis)
+
+A drop-in slim replacement for googleapis subset.
 
 ## Refactor notice
 
